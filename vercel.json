@@ -1,18 +1,18 @@
 {
   "env": {
-    "GOOGLE_SPREADSHEET_ID_PRODUCT": "your_google_spreadsheet_id_for_product_here",
-    "GOOGLE_SPREADSHEET_ID_ORDER": "your_google_spreadsheet_id_for_order_here",
-    "GOOGLE_SPREADSHEET_ID_CATEGORY": "your_google_spreadsheet_id_for_category_here",
-    "GOOGLE_SERVICE_ACCOUNT_CLIENT_EMAIL": "your_google_service_account_client_email_here",
-    "GOOGLE_SERVICE_ACCOUNT_PRIVATE_KEY": "your_google_service_account_private_key_here"
+    "GOOGLE_SPREADSHEET_ID_PRODUCT": "11LLxt0-z9ZtfkyR-QcSjKwq3cdwcvuxnU8uxce2aVPY",
+    "GOOGLE_SPREADSHEET_ID_ORDER": "1uzZfMtpVa_FjVtHZyjy-gBDqMRusrWQ69INTEHwzAO8",
+    "GOOGLE_SPREADSHEET_ID_CATEGORY": "1CpqIbAOCM_Es3jicsPfXH4Vaex9sp_QSZcO1Hjc5CVU",
+    "GOOGLE_SERVICE_ACCOUNT_CLIENT_EMAIL": "test-504@test-project-407504.iam.gserviceaccount.com",
+    "GOOGLE_SERVICE_ACCOUNT_PRIVATE_KEY": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC/aT9g3MdXhbah\nGNQrR38dIDSsyk3OrprWznQLYOTtZ3mqbrRghvqC/09zDvM1mhanJgl9mxb1njtj\nWfpTrxGaYKKWIPceH2k/t38uQaMumTG4ewTTPBYmSSkyx8rrZf3bZemetzUtO3Z/\nGIEKE3I3XFuP1wpP3ZiJza1ruwAA9O7HQfvaTMyUCqpAxJ63gQr/wo0vl53Gp33E\nY2ygFGzUIWyVfA0XcuDeUHuQS+/T9z+DhryjUvv+YZSq0ShWEElG92CjyWkIK2Tx\nxRd08u/Vnz7vc2RkxMWMkpkQrc3kvUB82Nzot0+yyk50EG2tNx42iV8zRtmXI07m\nPiCqXOFfAgMBAAECggEABFH0ohPe6ez01hul2kOMV79yK5OLVbFfgZ6k7twlKUM5\nyJd5ZGkCKXJoEXw9EAYmIb1RidoLbB1spg2SAVEvurDDVVPG0BFnF47lhMlAIh1H\nX9cNoP43r8Mx9gPyuAUUHt9kz6C/R1c9Zu6ffEyRD4p67zsBcBOxItcXZW7nN/Oa\njWVneyEHbxfD0HcRQt73V/cIvuJAkkHjkhhbFDDb0zUO2JWZ1n+uxEC8kdTHY8/R\nS3SeEWQ4cnrJQHmcEmRs8A8LaAwxx3o3HtXTtPe63VOZrqxOPU0XabKtIgOHKnqI\n2ziFa9egiehCCJBcv8TwuJ2HDvDBRbUxw7RWE/eLhQKBgQD2T2YdJpwOBhf4KebX\nGvq1XfhnO1FLL54vNv16s8rnUg8ewwFlSKT0MmbjoHFWmyYMPRJf/A9yGD9Hms5w\nM7RQqUdzpFl5SS+zqIsj/MGtzDuSmavOxj/N0rqCSfcgOCkTC0UAyowNKJAefbW2\nar3slGssRus9jzIf37b1cFuRkwKBgQDG8PU++yNOWtubWTOcwiDSBhroJ0XtMqmS\nKv3XhY1GnUrq6qkUpuEW4g3ah0mzSD4DqZTWYMY0trN+8rpeIyN22D7qs/1sNiwF\nGd8yeUypNKm8f6oteFQ2GLqcGBYnQUTwmBP+cDIsq2Bq1kvzYPzQym3eJzSLmIT2\nN91PHXTAhQKBgQCQd3t2J5oqY4qVhMYfbnSUAhzbN6Bzz+cg3EkKOgANc0TpDwl3\nhYcyr4lHg2hWmsNTNFLdt3K7wdsDvZnNl5XwJYmCG2hbSgDPiFCr9+kFbh+W2ck6\ni28K4sl/97AZ1rbIs7hyQVqpsRvutl7pMmxZIahGnQYG4kFNDqM6C/+5PwKBgE4o\n1PGNkW1zXNxHy3NHAcYCCAg1hc+PG/gFU/2cxsh7e7eXwh4PAlgPMAovJNF/DH47\n3fHry3NiZFr32iip/YDvrKhhVqtxDRJj+8DEz02bFySrs5xxrgQi6w3wmKOLjR5J\nYXGReuT538OZtfVEoY8WONwS4x4FKhfiEtzGYdxRAoGBAMprdDA09eoNGYdZi18z\nttFjOsm0gaQk25fGD4PJnnBkb7htIKiIe6/dP5XQvlQIh6ukxSK4GNA58rn9+G6K\nLcv27+SlkmehlbdYvq+9eozIc04BWbAzo2fX8Q5d0XkLqGI/R2DwTdeJgfQ65GCw\nPcrK2lV4ZgC7F7LVfPk8Nv3B\n-----END PRIVATE KEY-----\n"
   },
   "build": {
     "env": {
-      "GOOGLE_SPREADSHEET_ID_PRODUCT": "your_google_spreadsheet_id_for_product_here",
-      "GOOGLE_SPREADSHEET_ID_ORDER": "your_google_spreadsheet_id_for_order_here",
-      "GOOGLE_SPREADSHEET_ID_CATEGORY": "your_google_spreadsheet_id_for_category_here",
-      "GOOGLE_SERVICE_ACCOUNT_CLIENT_EMAIL": "your_google_service_account_client_email_here",
-      "GOOGLE_SERVICE_ACCOUNT_PRIVATE_KEY": "your_google_service_account_private_key_here"
+      "GOOGLE_SPREADSHEET_ID_PRODUCT": "11LLxt0-z9ZtfkyR-QcSjKwq3cdwcvuxnU8uxce2aVPY",
+      "GOOGLE_SPREADSHEET_ID_ORDER": "1uzZfMtpVa_FjVtHZyjy-gBDqMRusrWQ69INTEHwzAO8",
+      "GOOGLE_SPREADSHEET_ID_CATEGORY": "1CpqIbAOCM_Es3jicsPfXH4Vaex9sp_QSZcO1Hjc5CVU",
+      "GOOGLE_SERVICE_ACCOUNT_CLIENT_EMAIL": "test-504@test-project-407504.iam.gserviceaccount.com",
+      "GOOGLE_SERVICE_ACCOUNT_PRIVATE_KEY": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC/aT9g3MdXhbah\nGNQrR38dIDSsyk3OrprWznQLYOTtZ3mqbrRghvqC/09zDvM1mhanJgl9mxb1njtj\nWfpTrxGaYKKWIPceH2k/t38uQaMumTG4ewTTPBYmSSkyx8rrZf3bZemetzUtO3Z/\nGIEKE3I3XFuP1wpP3ZiJza1ruwAA9O7HQfvaTMyUCqpAxJ63gQr/wo0vl53Gp33E\nY2ygFGzUIWyVfA0XcuDeUHuQS+/T9z+DhryjUvv+YZSq0ShWEElG92CjyWkIK2Tx\nxRd08u/Vnz7vc2RkxMWMkpkQrc3kvUB82Nzot0+yyk50EG2tNx42iV8zRtmXI07m\nPiCqXOFfAgMBAAECggEABFH0ohPe6ez01hul2kOMV79yK5OLVbFfgZ6k7twlKUM5\nyJd5ZGkCKXJoEXw9EAYmIb1RidoLbB1spg2SAVEvurDDVVPG0BFnF47lhMlAIh1H\nX9cNoP43r8Mx9gPyuAUUHt9kz6C/R1c9Zu6ffEyRD4p67zsBcBOxItcXZW7nN/Oa\njWVneyEHbxfD0HcRQt73V/cIvuJAkkHjkhhbFDDb0zUO2JWZ1n+uxEC8kdTHY8/R\nS3SeEWQ4cnrJQHmcEmRs8A8LaAwxx3o3HtXTtPe63VOZrqxOPU0XabKtIgOHKnqI\n2ziFa9egiehCCJBcv8TwuJ2HDvDBRbUxw7RWE/eLhQKBgQD2T2YdJpwOBhf4KebX\nGvq1XfhnO1FLL54vNv16s8rnUg8ewwFlSKT0MmbjoHFWmyYMPRJf/A9yGD9Hms5w\nM7RQqUdzpFl5SS+zqIsj/MGtzDuSmavOxj/N0rqCSfcgOCkTC0UAyowNKJAefbW2\nar3slGssRus9jzIf37b1cFuRkwKBgQDG8PU++yNOWtubWTOcwiDSBhroJ0XtMqmS\nKv3XhY1GnUrq6qkUpuEW4g3ah0mzSD4DqZTWYMY0trN+8rpeIyN22D7qs/1sNiwF\nGd8yeUypNKm8f6oteFQ2GLqcGBYnQUTwmBP+cDIsq2Bq1kvzYPzQym3eJzSLmIT2\nN91PHXTAhQKBgQCQd3t2J5oqY4qVhMYfbnSUAhzbN6Bzz+cg3EkKOgANc0TpDwl3\nhYcyr4lHg2hWmsNTNFLdt3K7wdsDvZnNl5XwJYmCG2hbSgDPiFCr9+kFbh+W2ck6\ni28K4sl/97AZ1rbIs7hyQVqpsRvutl7pMmxZIahGnQYG4kFNDqM6C/+5PwKBgE4o\n1PGNkW1zXNxHy3NHAcYCCAg1hc+PG/gFU/2cxsh7e7eXwh4PAlgPMAovJNF/DH47\n3fHry3NiZFr32iip/YDvrKhhVqtxDRJj+8DEz02bFySrs5xxrgQi6w3wmKOLjR5J\nYXGReuT538OZtfVEoY8WONwS4x4FKhfiEtzGYdxRAoGBAMprdDA09eoNGYdZi18z\nttFjOsm0gaQk25fGD4PJnnBkb7htIKiIe6/dP5XQvlQIh6ukxSK4GNA58rn9+G6K\nLcv27+SlkmehlbdYvq+9eozIc04BWbAzo2fX8Q5d0XkLqGI/R2DwTdeJgfQ65GCw\nPcrK2lV4ZgC7F7LVfPk8Nv3B\n-----END PRIVATE KEY-----\n"
     }
   }
 }
